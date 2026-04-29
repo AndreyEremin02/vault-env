@@ -1,0 +1,6 @@
+.claude/
+
+vault-env
+
+*.env
+.env*
